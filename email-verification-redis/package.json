@@ -1,0 +1,22 @@
+{
+  "name": "email-verification-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "2.0.0-rc.5",
+    "aws-sdk": "^2.687.0",
+    "body-parser": "1.15.1",
+    "express": "4.8.0",
+    "nodemailer": "latest",
+    "nodemailer-mandrill-transport": "1.1.0",
+    "nodemailer-ses-transport": "^1.5.1",
+    "redis": "2.6.0-2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

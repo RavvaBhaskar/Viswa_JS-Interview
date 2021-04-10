@@ -1,0 +1,25 @@
+write polyfills for map : 
+Ref link : https://reeversedev.com/polyfill-for-foreach-map-filter-reduce
+
+write a constructor in ES5
+
+2.Consider you have 100 million array items,find the sum of it in a performant way(in browser).
+
+Ans : i have used array.reduce (but expection is different).
+Dont u find any challenges using array.reduce for 100 million records. (application hang ,use worker threads,but expectation is different)
+Expectation : use asynchronous.
+Need to find out how. : I think the following refernce is the solution:
+https://www.freecodecamp.org/news/javascript-async-and-await-in-loops-30ecc5fb3939
+
+3.How will you import the modules in node.js  (using require i said).
+    Nested Question ..What is the difference between require and normal import/export (i said require : AMD ,commonjs :import export)
+    Nested Question ..Which is difference between AMD and common js (i said AMD is asynchronous and commonjs is synchronous).
+    Nested question ...Which module system you use when lazy loading is involved (i said requirejs ...i.e AMD)
+
+3.Use HTML elements for providing performance.
+4.How to make Website performance efficient.
+5.You have given a website which performs badly..how will you approach it to make performance efficient.
+
+
+My opinion : The first two questions are only sensible ..i feel ..rest is i am not sati
+

@@ -1,0 +1,1 @@
+my references : https://www.freecodecamp.org/news/javascript-async-and-await-in-loops-30ecc5fb3939/
